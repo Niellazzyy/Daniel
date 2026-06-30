@@ -9,8 +9,8 @@
         <p> <i> Age: 18 years old. </i></p>
         <p> <mark> Birthday: March 22 2008 </mark></p>
         <p> <del> Hobby: Basketball </del></p>
-        <p style = "color:red;"> RED </p>
-        <p title = "POGI SI DANIEL">Daniel</p>
+        <p style ="color:brown;">WHITE</p>
+        <p title ='POGI "Daniel" Morales'>DANIEL MORALES</p>
 
 
         <h2> <u> FAVORITE GAME </u> </h2>
