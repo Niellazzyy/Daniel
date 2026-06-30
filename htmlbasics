@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title> MY FAVORITE GAMES </title>
+    </head>
+    <body>
+        <h1><u> ABOUT ME: </u> </h1>
+        <p> <b> Name: Daniel Q. Morales </b> </p>
+        <p> <i> Age: 18 years old. </i></p>
+        <p> <mark> Birthday: March 22 2008 </mark></p>
+        <p> <del> Hobby: Basketball </del></p>
+        <p style = "color:red;"> RED </p>
+        <p title = "POGI SI DANIEL">Daniel</p>
+
+
+        <h2> <u> FAVORITE GAME </u> </h2>
+        <p> My favorite game is <b>Mobiles Legends, </b><br>and then my favorite character is <b>Khufra.</b><br>Additionally, my favorite weapon/skill is <b>Flicker.</b><br>Lastly, the favorite map that I like is <b> Land of Dawn.</b></p> 
+
+        <h3> <u> WEBSITE </u></h3>
+        <p> <b> Visit the Official Website: </b></p>
+        <a href = "https://www.mobilelegends.com/" > Mobile Legends: Bang Bang</a>
+
+        <img src = "MLBB_icon.webp" alt = "Mobile Legends Icon" width = "200" length = "200">
+
+        <p><b> Thanks</b><i> visiting</i><u> website</u><mark>!</mark></p>
+        
+    </body>
+</html>
