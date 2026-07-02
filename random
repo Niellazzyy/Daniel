@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> WEBSITE KO TO!</title>
+</head>
+
+<body style="background-color:beige;">
+
+    <h1 style="font-size:60px;"> ABOUT ME: </h1>
+    <hr>
+    <h1 style="font-size:30px;"> PERSONAL INFORMATION:</h1>
+    <p title="Daniel Quinaso Morales"> <b>NAME:</b> <u>Daniel Q. Morales</u> </p> 
+    <p><b> AGE:</b> <u>18 years old</u></p>
+    <a href="http://127.0.0.1:5500/index.html">WEBSITE KO!</a>
+    <p><b>BIRTHDAY:</b> <u>March 22, 2008</u></p>
+
+    <hr>
+    <h1 style="font-size:60px;"> PHOTOS</h1>
+    <img src="Roblox.jpg" alt="Roblox Icon" width="50" length="50">
+    <img src="Roblox_Logo_2022.jpg" alt="Roblox" width="50" length="50">
+
+    <hr>
+    <h1 style="background-color:bisque;">COLOR CHANGER</h1>
+    <p style="background-color:azure;">CHEESEDOG</p>
+    <p style="background-color:aquamarine;">DONUT</p>
+
+    <hr>
+    <h1 style="font-family:courier;"> FONT CHANGER </h1>
+    <p style="font-family:arial;"> WASSAUP</p>
+    <p style="font-family:verdana;">WASSAUP</p>
+    <p style="font-family:'Times New Roman', Times, serif;">WASSAUP</p>
+
+    <hr>
+    <h1 style="font-size:200%;"> FONT SIZE CHANGER (%)</h1>
+    <p style="font-size:150%;">150% </p>
+    <p style="font-size:100%;">100%</p>
+
+    <hr>
+    <h1 style="text-align:center;"> TEXT ALIGNMENT</h1>
+    <h1 style="text-align:left;">LEFT</h1>
+    <h1 style="text-align:center;">CENTER</h1>
+    <h1 style="text-align:end;">RIGHT</h1>
+
+
+    
+
+</body>
+</html>
